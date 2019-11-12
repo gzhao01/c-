@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573584255 source:d:\newspaceforcodeblock\acm\wirelessnetwork\main.cpp
+	<iostream>
+	<cstdio>
+	<cmath>
+	<cstring>
+
